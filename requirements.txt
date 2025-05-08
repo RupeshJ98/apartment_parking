@@ -1,1 +1,1 @@
-streamlit
+pip freeze > requirements.txt
