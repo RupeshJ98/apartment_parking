@@ -13,3 +13,7 @@ Features
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+To know about some future aspects for this project
+  Go to --> Future Aspects.md
+  
