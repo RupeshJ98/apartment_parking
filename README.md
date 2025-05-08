@@ -1,0 +1,15 @@
+Apartment Parking System
+
+This is a fun Streamlit-based project that simulates parking spot bookings for cars and two-wheelers in an apartment layout.
+
+Features
+- Visual layout of parking spots
+- Car & bike spots
+- Booking by name
+- Parking duration or overnight option
+- Booking time displayed per slot
+
+✅ To Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
