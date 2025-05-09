@@ -11,6 +11,8 @@ Features
 
 ✅ To Run
 ```bash
+git clone https://github.com/RupeshJ98/apartment_parking.git
+cd apartment_parking
 pip install -r requirements.txt
 streamlit run app.py
 ```
